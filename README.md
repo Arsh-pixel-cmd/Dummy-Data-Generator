@@ -51,8 +51,8 @@ Perfect for testing, seeding databases, and learning MERN stack basics.
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/Arsh-pixel-cmd/DummyDataGenerator
-cd DummyDataGenerator
+git clone https://github.com/Arsh-pixel-cmd/Dummy-Data-Generator
+cd Dummy-Data-Generator
 ```
 
 2️⃣ Install dependencies
@@ -103,15 +103,15 @@ Example app listening on port 3000
 ## 🔥 Screenshots
 
 ### 🏠 Homepage  
- <img width="1469" height="832" alt="homepage" src="https://github.com/user-attachments/assets/248d3951-b124-4831-8f65-8c13cc979c05" />
+<img width="1469" height="832" alt="homepage" src="https://github.com/user-attachments/assets/b677c30c-3a3a-46a8-8fb4-5acde8f1a164" />
 
 
 ### 📋 Employees Table  
-<img width="1299" height="558" alt="table" src="https://github.com/user-attachments/assets/5cfd1863-bb44-48a9-908b-ecb41c1d5868" />
+<img width="1299" height="558" alt="table" src="https://github.com/user-attachments/assets/3a2b7821-5062-4576-9fee-971acc52faa3" />
 
 
 ### ✅ Toast Notification  
-<img width="388" height="56" alt="toast" src="https://github.com/user-attachments/assets/07764bae-87df-443d-9714-397120abdb83" />
+<img width="388" height="56" alt="toast" src="https://github.com/user-attachments/assets/567f4669-2e9e-417a-ba8a-6025cbfd0de8" />
 
 
 ---
