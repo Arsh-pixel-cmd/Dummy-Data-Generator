@@ -47,5 +47,8 @@ app.get("/generate", async (req, res) => {
   }
 });
 
-// ✅ For Vercel: wrap Express in serverless handler
-export default app;
+// ✅ Important: listen on the port Render provides
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
