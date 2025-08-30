@@ -1,0 +1,33 @@
+{
+  "name": "dummy-data-generator",
+  "version": "1.0.0",
+  "main": "dummydata.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon dummydata.js",
+    "start": "node dummydata.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "ejs",
+    "bootstrap",
+    "dummy-data",
+    "data-generator"
+  ],
+  "author": "Arsh Mishra",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.0.1",
+    "mongoose": "^8.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "description": "A full-stack Node.js + MongoDB project that generates random employee data with a sleek Bootstrap UI. Perfect for testing, seeding databases, and learning MERN stack basics."
+}
