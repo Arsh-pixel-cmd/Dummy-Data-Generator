@@ -1,10 +1,7 @@
 {
   "version": 2,
   "builds": [
-    {
-      "src": "dummydata.js",
-      "use": "@vercel/node"
-    }
+    { "src": "dummydata.js", "use": "@vercel/node" }
   ],
   "routes": [
     { "src": "/(.*)", "dest": "dummydata.js" }
